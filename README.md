@@ -3,7 +3,7 @@
 Sou Estudante de Análise e Desenvolvimento de Sistemas e estou em constante evolução na área de tecnologia. Desenvolvo projetos acadêmicos e pessoais para colocar em prática os conhecimentos adquiridos em HTML, CSS, JavaScript, Python, PHP, Banco de Dados e Power BI. Tenho facilidade para aprender novas tecnologias, gosto de trabalhar em equipe e estou pronta para iniciar minha carreira como Desenvolvedora Web.
 
 
-    <a href="https://github.com/Tati-BS?tab=repositories&sort=stargazers">
+   <a href="https://github.com/Tati-BS?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
