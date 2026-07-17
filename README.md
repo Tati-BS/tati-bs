@@ -36,7 +36,6 @@ Sou Estudante de Análise e Desenvolvimento de Sistemas e estou em constante evo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img
 <img 
     align="left" 
     alt="Git" 
@@ -54,7 +53,6 @@ Sou Estudante de Análise e Desenvolvimento de Sistemas e estou em constante evo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
